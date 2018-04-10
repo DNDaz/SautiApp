@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "86528129879",
+    "firebase_url": "https://carryload-dee8d.firebaseio.com",
+    "project_id": "carryload-dee8d",
+    "storage_bucket": "carryload-dee8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86528129879:android:116931b10b93639b",
+        "android_client_info": {
+          "package_name": "com.sautiapp.sauti.sautiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86528129879-dvibv41iv2a4aeldi155u23stabifgr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sautiapp.sauti.sautiapp",
+            "certificate_hash": "629b690d1153723f638e1236cfedffb5d1940934"
+          }
+        },
+        {
+          "client_id": "86528129879-oto9nl6587o76lr0rvm83pnv5n033bfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sautiapp.sauti.sautiapp",
+            "certificate_hash": "22df4ddf910de202a6ee803efff49865e64c3404"
+          }
+        },
+        {
+          "client_id": "86528129879-g7ekdqovgkmep86lhhvdvuheejnipm85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ3rZ8sf_qc1P_gf3ME5v_HGZvvwlzd3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86528129879-g7ekdqovgkmep86lhhvdvuheejnipm85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
